@@ -6,3 +6,6 @@
   4. cd <>/
   5. git clone <link>
   6.ls -a
+  git push
+  ~/.ssh
+  -закрытая директория
